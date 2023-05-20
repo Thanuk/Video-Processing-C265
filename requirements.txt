@@ -1,0 +1,10 @@
+click7.1.2
+Flask1.1.2
+gunicorn20.0.4
+itsdangerous1.1.0
+Jinja22.11.2
+MarkupSafe1.1.1
+Werkzeug2.0.2
+opencv-python4.5.4.58
+numpy1.21.4
+opencv-python-headless
